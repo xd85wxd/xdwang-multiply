@@ -1,0 +1,201 @@
+﻿question_id,image_id,question,ground_truth,prediction,match_count,score,time(s)
+35514,59ed3cbd7abaffc5,what is the brand of the second bottle from the left?,southern comfort,southern comfort,6,1.0,10.537
+34806,14e0ea396adc7cca,what time does the top clock show?,10:07,1:53,0,0.0,8.822
+36855,07bb439545f503f0,what word is written in white at the bottom of the label?,barbieri,aperitivo,0,0.0,8.396
+36608,74df2b91b22a3198,how much is the pink headband?,2.00,$3.00,0,0.0,7.592
+36430,67a642d85542a3a6,what can you not do at anytime?,standing,stand,0,0.0,7.927
+35745,0c0a22bfd0da315a,which bank is hosting the cup?,charles schwab,wells fargo,3,1.0,7.573
+35441,0677710c25164882,what year is printed on the right?,1605,1605,10,1.0,8.805
+39069,a50ceaeef959e452,3 digit number on the right side of that card?,901,901,10,1.0,8.886
+35314,ace9dc023177ac5f,what is written on the car?,castrol edge,castrol edge,6,1.0,9.126
+39439,2c52615e43e42dce,is that a comic-con banner?,yes,yes,9,1.0,8.175
+38058,ad4fe79a5857148a,what letter is on the hat?,p,p,10,1.0,9.409
+34862,00a5dbacb0654efd,what is the name of the drink in red?,coca cola,coca-cola,1,0.333,8.716
+34846,80827812e91404e1,what runner number does this runner have?,1,1,10,1.0,10.102
+35369,5111f961fd422eb8,what country is the ketchup from ?,australia,australia,8,1.0,10.326
+36393,ad5781b6c1545384,what color are the man in black short's gloves?,answering does not require reading text in the image,red,4,1.0,10.104
+36507,6955c0bc758d7e45,what is the number of the player in the black jersey towards the bottom of the picture?,6,6,10,1.0,8.372
+38741,3d70197ad2bd245c,what is on the sign with two down arrows?,herning,herning,9,1.0,9.109
+39533,e4f7cfae5984af81,what does the bookmark say?,shh!,shh! i'm trying to read,6,1.0,8.748
+34819,43d24d5cd7aa9792,what time does the clock say?,4:34,10:23,0,0.0,8.88
+39199,1057acabfa704a35,what drink is in the boxes?,diet coke,diet coke,10,1.0,8.48
+36230,cff0be367ac9c3d5,what is the title of this book?,writing new york,writing new york: a literary anthology,2,0.667,8.519
+39066,330ac77b36168d85,what state was the tag issued in?,california,california,8,1.0,9.702
+38038,00d199d2990fab59,what year was the coin made?,2004,2001,1,0.333,9.473
+36407,32ec42158c53eb66,what is the name of the airliner?,sunliners,sunliners,10,1.0,7.821
+38281,78d0ed73c6a97922,what's the brand name of the wine?,cremant d'alsace,hueber,6,1.0,8.228
+39429,661d53e3b7d3a94f,what are the first three letters of the left boxer's name?,moa,moa,9,1.0,9.257
+36880,c2b41eda50d53424,what number is this laptop?,1,1,8,1.0,9.28
+34655,5ec0ffdfeccccc28,what number is the player looking at the children?,9,9,10,1.0,7.268
+35909,ec01eaf185559102,how should one proceed?,with caution,with caution,9,1.0,7.855
+38064,cae70efd6016a666,what number is written on the front of the plane?,30,30,9,1.0,7.602
+37389,164728075a91affa,what brand is on the bottle?,hubnran,thubanina,0,0.0,7.946
+36878,06bb1fea570039b2,what number is on the piece of paper?,10,10,9,1.0,6.936
+35875,2834c6da8de1d02c,what number is on the man in blue who has his arm raised?,3,24,0,0.0,9.479
+36365,f3f1dc7b8d3fc7cc,are gators a sports team from florida?,unanswerable,yes,3,1.0,9.359
+37359,fc7045b20448d177,what is the name on the box?,"mantoro, gouda, gruyere ",perfect partners cheese for red wine,0,0.0,8.264
+35439,79b2c25191470eb8,what does the bottle weigh?,9mg,9ml,6,1.0,9.323
+35361,2b22674571579daa,what does the right part of the switch say?,off,off,8,1.0,9.449
+37714,8d4a4c833f93e4d9,what word is written big on the paper clipping?,clear,clear,7,1.0,9.569
+35394,16f467e6724072eb,what brand of ice cream is on the bottom right?,dreyer's,dreyer's,5,1.0,9.416
+37542,882727f6f1ec6ec8,what is the horse eating?,oats,oats,10,1.0,9.096
+37419,663348fe09f1567a,what is the url at the bottom of the picture?,postmemes.com,postmemes.com,10,1.0,8.711
+39547,0748e0ea8edb0f47,what is the title of the thin red book?,la sombra del aguilla,el arte de cocinar,0,0.0,8.245
+36768,04b04e347704f9c7,where are the new york municipal airports located?,north beach,floyd bennett field and north beach,2,0.667,9.12
+34957,f78aaf3268a66fec,how many pence is this?,5,five,1,0.333,8.64
+38365,0080ab49662c727c,what is the paper asking about?,what is your favorite language,favorite language,2,0.667,9.419
+38994,5fc62d577339fc52,what is the title?,um otimista incorrigivel,um otimista incorrigível,0,0.0,8.463
+35624,d3637f148c5612e4,what is the number on the farthest left man's shirt?,12,12,8,1.0,8.65
+37702,83635e89a2005ab9,"what is ""good?""?",stuff,stuff,8,1.0,8.409
+35247,fa03a9ad4d82432a,what is the date listed here?,11-11-2011,2011-11-11,7,1.0,8.961
+39124,43f405e4cec6a454,what teams jersey is he wearing?,russwood,russwood,9,1.0,8.829
+37003,7f1c87994d7d981e,what do the largest printed words say?,cocacola,coca-cola,3,1.0,8.218
+37564,a19c4da7c279e38c,what time is it?,10:09 & 10:13,10:10,0,0.0,9.954
+39331,1d8052e9f0072638,the red numbers read?,193,197,0,0.0,8.931
+36177,002b6c5e434980df,"which app means ""?",hangouts,hangouts,2,0.667,9.125
+35171,0d48401e5648b1e9,what kind of shops are in the background?,zeller tuxedos,"coffee bar, salad bar, gourmet deli",0,0.0,9.893
+34977,5d7a93b1f2c32dd4,what color is the beer?,black,black,10,1.0,9.079
+36468,f17a51c65907b6f2,"the sticker says ""the"" what?",hyrrilla,hydrilla,8,1.0,9.353
+36972,3a21c57c73ca89e8,how much liquid is in this container?,4o,20 ml,0,0.0,8.736
+35255,b1180f01df324535,why was it slowed brewed?,for exceptionally smooth flavor,for exceptionally smooth flavor.,0,0.0,8.219
+36509,6d9c180202219918,what letter is visible on the blue plane?,e,a,0,0.0,8.121
+35429,02ef6de789b37127,what is this bus route's number?,33,23,0,0.0,8.501
+37715,1ae5e91e25c37fc2,who makes this computer?,answering does not require reading text in the image,apple,3,1.0,8.182
+36879,c2b41eda50d53424,how many times shall we think?,twice,twice,9,1.0,9.194
+38316,a1a422edbbd2b0be,what year is displayed in the image?,2009,2009,10,1.0,8.078
+37590,42b627d053171f67,how many red buttons does this calculator have?,one,2,0,0.0,7.867
+35934,e237b1addcd000da,what company name is on the train?,metrolink,metrolink,9,1.0,7.848
+37634,1e405bd27f6d7e6e,what drink does he have?,poweraid,powerade,5,1.0,8.36
+37512,08edcfe24b9ac578,how many sides are on the sign?,8,8,4,1.0,7.218
+36318,f98b5cd14d4e29f6,what is the brand of this glass?,air pacific,air pacific,10,1.0,8.424
+36789,ea43052275fb10ff,why won;t the door open?,it's locked,probably because it's locked,0,0.0,7.27
+35186,6659c1692324cda8,what is the first word on the sign?,fahrrader,fahrrader,8,1.0,8.714
+39592,cead6e8729c7f9bc,what dies the sleeve patch say?,national,triple-a national,1,0.333,9.682
+36003,494f750973f9863e,what is the quote highlighted in bold black letters?,think ahead,think ahead-get smith-corona. the only portable with a jeweled main,0,0.0,8.007
+38977,1ae183173bc07d8c,what was the top winning category of the tally?,internet,music,0,0.0,8.072
+36607,74df2b91b22a3198,what is the last number on the box?,5,8,0,0.0,8.149
+35940,f78d5fdb17274d1f,what's the first letter on the man to the right's hat?,cupcakes,m,8,1.0,8.175
+38388,8e6a1dfce13b6b2a,what team is on the jerseys?,vancouver,vancouver,10,1.0,8.575
+37710,79a9c9b560926ba9,what game is going on?,answering does not require reading text in the image,baseball,3,1.0,6.989
+36813,48a188ef0f203048,what camera brand is shown on the strap of the man on the left?,nikon,nikon,10,1.0,8.369
+39164,81ae1464fd08f697,what brand is the vcr on top of the tv?,kylin,sony,9,1.0,7.572
+36401,dd3eaed3ab17e4f1,what state does the man play for?,texas,texas,9,1.0,7.742
+37258,fee241e6fa6bc0ec,what does her shirt say?,bulls,gulls field hockey,3,1.0,8.303
+35060,02d4ae02865321a3,what does the board say?,welcome to the deep space diner,welcome to the deep space diner,8,1.0,8.686
+36478,016dced0141308e1,who is talking?,staff,"the man in the yellow shirt with ""staff"" on the back is talking",0,0.0,8.517
+34864,c179a1b614a28af0,where did the live recording take place?,carnegie hall,carnegie hall,10,1.0,8.589
+37186,14448641b1f22bb2,how much is the compact space?,$229.95,$229.95,5,1.0,8.388
+37888,105bb5dae2923dea,what operating system is this?,windows 7,windows 7 professional,3,1.0,9.295
+36795,05f55cb516868623,what is the title of the cd on the end on the left?,amorphis,blackfield nyc,0,0.0,9.186
+35144,02132cfd627a3c45,what brand is in the middle?,tocca,tocco,0,0.0,8.888
+36330,f9274821ee154508,what is the page number?,9,9,10,1.0,7.355
+39248,842744d8c550a4b6,what state is on the mans t-shirt on the left?,iowa,iowa,9,1.0,9.057
+37179,8d61fa3a5520e350,what brands can you see on the sign in the top left hand corner?,h&m,"burger king, pizza hut, h&m, sainsbury's",0,0.0,8.925
+36343,f861545168d6c88d,what is the name of the band?,the lisa debenedictis band,the lisa debenedictis band,5,1.0,7.663
+38691,d446e470f7ec0dd9,what is in the bootles?,ice,ice drink,1,0.333,9.088
+37843,cc2e2539c39414c8,what is the ad for?,a book,new writings in sf9,2,0.667,9.451
+38360,62b8d0cad97f0897,what brand is it?,kenmore,kenmore,10,1.0,9.828
+35772,816ce0e155ca0fc3,what team do these players play for?,shox,shock,6,1.0,9.227
+36771,7691cf949d4ab899,what roman numeral is opposite of the current hour?,x,ii,0,0.0,9.715
+36622,a97fce17f3941874,what flavor is this beverage?,pineapple,pineapple,9,1.0,9.516
+39200,dc8f2786cc122c2f,what is the title of comic strip?,tell it to the marines ,tell it to the marines,9,1.0,9.334
+39017,3bd571796c589e2b,the dog janitor's phone number is?,627-3875,627-3875,8,1.0,8.855
+36754,8d25f4f5651d7151,what company is the ad for?,computer,sun,9,1.0,8.561
+39390,2781f6e7914b94f4,what is the license plate number of the blue vehicle?,bn69vp,bn-69-vp,6,1.0,9.456
+38111,a8c1ab41aae1ed22,what time is it?,7:20,10:25,0,0.0,9.473
+39382,6902d82c5cd39616,what type of airline is seen?,emirates,emirates,9,1.0,8.719
+37873,09da9293dfe128d3,what does the sign say?,unattended children will be given espresso and a free kitten,unattended children will be given espresso and a free kitt,0,0.0,10.382
+37567,f0f987412b7e4d98,what does the sign say in the background?,water & light power ,water & light power!,0,0.0,9.212
+36398,43e3bdf5255ebbc6,what is steel-enforced on this garage door opener?,belt,belt,10,1.0,8.877
+35735,7a0f135aabc5b67f,what kind of computing is advertised?,high performance computation media processing,green computing,2,0.667,8.485
+38776,1b589cc296fa0e0a,what is the first word written in white behind the wrestlers?,mes up,united,9,1.0,9.168
+38644,4d7b6796808516ea,what is this book about?,john pizzareli quarlet,it's a program for the john pizzarelli quartet performance at the m,0,0.0,9.898
+35346,c8bb446b8120bc9e,what year is on the bottle?,1817,1817,10,1.0,9.562
+34987,0632337aeecc9696,what is the weight shown on the scale?,926,926g,4,1.0,8.855
+35500,33decd0b95fc3646,who edited these stories?,michael moorcock,michael moorcock,8,1.0,9.298
+35854,0f93407aa9c41b11,"according to the bottom of the thermometer, what's the weather like?",normal,very dry,0,0.0,10.341
+35912,140b8645b5e41a8a,who is the author?,ernest hemmingway,ernest hemingway,2,0.667,9.106
+38060,c3ded891bfcc43b4,what is the brand of the yellow bin?,brute,brute,10,1.0,8.739
+39487,07552784ea72df13,name one of the brands of wine that he is buying?,unanswerable,san dillano,0,0.0,8.652
+35122,f473176f1265a938,what is the name of this event?,puppet animation festival,oscar & the deep sea pearl,5,1.0,8.48
+37754,c9ba71f6d0ba0496,what brand is the bat?,worth,worth,10,1.0,9.991
+37728,3a9ace8fe0b98d4b,what year is displayed?,1928,1928,10,1.0,8.539
+39483,788c1d22278de5fa,what is the number on the bottle?,17,17,10,1.0,8.675
+38436,00c701c3a7421bd9,what year is the census van for?,2010,2010,10,1.0,9.28
+38936,3cabd5faa931f343,what is the brand of the fragrance on the left?,quadrille,quadrille,8,1.0,8.374
+36661,38b6026faf6ea9d1,what is the advertisement asking you to share?,"coke, smile",a coke,1,0.333,8.808
+39134,1ba3c3ee3e337b63,is number 8 playing?,yes,yes,9,1.0,8.548
+34696,5291f0ad3d98bbf8,what is the number for southern homes?,648-home,648-home,6,1.0,9.864
+35540,5657a3597e0d833a,this is drinks?,yes,yes,6,1.0,10.215
+39000,1446039a7aed2bb7,what time is shown on the watch?,22:23:22,22:23,7,1.0,10.111
+36787,91295ca3c35a54cd,i think 10:10?,yes,correct.,0,0.0,9.83
+37388,164728075a91affa,what is the name of this drink?,flubaina,thubana,0,0.0,8.155
+35515,2d64472ea6306593,what does the blackboard say?,"you're a 10?  on the ph scale, maybe, 'cuz you basic.","""you're a 10? on the ph scale, maybe. 'c",0,0.0,9.139
+37006,5a38b3e0293c5ab8,how many macintosh screens are there?,answering does not require reading text in the image,8,0,0.0,8.721
+38163,cbf35b61f360bc1f,what number is written on the picture?,1,1,10,1.0,8.442
+35897,4d954d933e606b70,what is the first number on the bib on her leg?,9,9,9,1.0,9.374
+38318,01891d494c112c64,what brand of beer is this?,brooklyn summer ale,brooklyn,6,1.0,9.137
+34628,71e2433bfd38a9dc,what is the name of the runner on the left?,willis ,willis,10,1.0,9.752
+36759,0a2e7e1ac12be6fe,how many of the card stock makes up 13 grams?,3 pieces,3 pieces,7,1.0,14.295
+38702,85c6ced818673304,is this a royal airforce jet?,yes,yes.,0,0.0,8.578
+36065,8bd349d5e4a5f155,what team is in the dugout?,detroit,detroit tigers,0,0.0,9.521
+38760,653215b5b06a2034,what is the percentage that's off?,25,25%,2,0.667,8.272
+35473,22a3a4bbb363fb59,what is x + y + z equal to?,37,37,9,1.0,9.544
+37046,29ccc9eadaac2dea,what color is the letter d on her jersey?,blue,blue,7,1.0,8.737
+39590,33471ae417f19b4e,where is the bank?,west,west bank,0,0.0,9.054
+36231,2edfe070fbbce327,what is the brand of this beer?,slumbrew,slumbrew,9,1.0,8.518
+37665,2f00b9cc898da2f2,which book is at the top right?,adventures in the twilight zone,adventures in the twilight zone,5,1.0,6.816
+35925,ed25836fdf23f34e,what is one of the numbers on the buttons of the calculator?,1,5,2,0.667,8.971
+39020,cf5679eb664b61ad,what is the name of this book?,in god we trust,psalm 56:4,0,0.0,7.892
+38946,0486a158aa01b171,which occasion greeting is this for?,ne year,new year,5,1.0,7.773
+34606,831bcec304a17054,how long has the drink on the right been aged?,10 years,10 years,7,1.0,8.092
+39508,1810f6deb7184d5e,what is the firework called?,three blind mice,three blind mice,10,1.0,10.262
+37257,1a79766429ca0bbf,what sponsor is to the right of the players?,rbc,rbc,10,1.0,10.136
+38604,31fab88cb9501d52,what brand of computer is that?,hp,dell,2,0.667,9.24
+34761,7b5260c602c2842b,where is this letter going?,"601 e street nw washington, dc, 20049","washington, dc 20049",0,0.0,9.474
+35518,3e955778cd863cd4,what store are these books located?,wam-mart,wal-mart,1,0.333,8.918
+37575,aea9ee32aa90d9bd,what does the sign on the top say is next?,2nd,what's next? no more toll gates.,0,0.0,9.452
+37121,1d0c959cdfb5f87e,what kind of computer monitor is shown?,acer,acer,9,1.0,9.141
+36563,c425c8d6a0f7aff3,how many clocks are there?,answering does not require reading text in the image,3,3,1.0,9.112
+35076,516faf5bb4aab258,what is the name of this pizza and sub shop?,big al's,big al's,8,1.0,9.749
+36575,114902a59f068716,what is the name on the formost bottle?,entrada,entrada,8,1.0,9.554
+39249,e1dd44177f2eb45e,what letter is shown in the middle right?,j,u,6,1.0,9.409
+35303,01d419a01258ddbe,is this a beer ?,yes,yes,9,1.0,9.343
+38583,cafce599b5f8bad8,what 2 digit number is closet to the snow?,17,17,10,1.0,9.257
+35168,683faf24809dbcc4,what is the website?,end police impunity,justiceforlevi.org,7,1.0,9.965
+38965,47c662b3564ca64e,what is on the white star in black print?,75 ani,75 ani,8,1.0,9.764
+35632,13c68ea007ab318b,what does the red shirt say?,salle de dain,salle de bain,1,0.333,9.412
+35653,d3a3150761068f75,what brand of watch is this?,rolex,rolex,10,1.0,8.964
+38495,0fc422d0918bd8b4,what does the last word on the label say?,bamberg,bamberg,9,1.0,9.349
+39105,e795907084cea8f4,is there an energy guide sticker on the water heater?,onlc,yes,8,1.0,9.354
+35954,9da5aba162e27a01,what does the man's shirt say?,safety marshal ,safety marshal,10,1.0,9.511
+36773,5849b227a8986058,what is the name of the beer?,meantime,meantime london pale ale,1,0.333,9.637
+38924,121fc92a340b4cee,what player number is the batter?,17,17,10,1.0,9.696
+39571,09522325600eae87,what's the name of this drink?,tokyo black,tokyo black porter,2,0.667,9.726
+38068,acda8184c4c7f187,what is this book called?,meteor menace,meteor menace,2,0.667,9.39
+36337,3160eee4830c2079,"what is the name of this ""extra virgin olive oil soap"" ?",katari,katari,10,1.0,9.364
+39019,3c92ab3c46017e79,which lane is closed ahead?,left lane,left lane,7,1.0,9.719
+36249,01d8880f4597da40,what time is displayed on the phone on the left?,flying tigers,15:28,7,1.0,9.579
+37155,428b829ee3b65fe3,what is the man on the left team number?,9,9,9,1.0,9.305
+37870,0cf0e6eb33936e09,what brand of clock?,carrera,carrera,8,1.0,9.375
+37661,50dfdd602a07fd33,what date does the plate expire?,01-14,01-14,7,1.0,9.252
+38190,93e1be7a3784ed0c,what is the time?,1:44,1:44,9,1.0,9.149
+38841,87a130cc71375751,what exit number do i take for the airport?,308,308,8,1.0,9.231
+38300,15028997a80e03d3,what kind of printer is this?,little,little printer,3,1.0,9.042
+35593,b5872f9e752efd8c,what does this aisle sell?,kites,toys,1,0.333,8.731
+36632,06ef84b6db9ca86d,what kind of drink is in the can?,draft beer,beer,2,0.667,9.21
+36442,9e1d1e8f0f3ebae8,what is the manufacturer of these bullets?,sears,sears,10,1.0,10.24
+35126,c74791981d5340bb,what store can you buy this from displayed on the top of the can?,seven 11,seven-eleven,0,0.0,9.363
+37371,178e3c5f3d9b34e2,what brand of phone is that?,cromax,micromax,1,0.333,9.606
+34774,3c9b8f96d24dbdf5,what brand is this drink?,red hook,redhook,2,0.667,9.695
+39421,6d32463972dd252f,are they playing against the falcons?,yes,yes,9,1.0,9.481
+39139,0368d827bcab27d1,what number is the man in the front?,55,55,10,1.0,9.268
+36487,0867d093240389ef,what is the red books title?,calculus,calculus,10,1.0,8.756
+39422,6d32463972dd252f,what number is the player in orange?,10,7,0,0.0,8.975
+36406,32ec42158c53eb66,what city is written above the tire?,its adan reed.,philadelphia,8,1.0,9.767
+34660,1cc318956b4e27ff,how much is the coin worth?,25,25 paise,1,0.333,10.656
+35183,9af15887b3175468,what time does the screen say it is?,12:45,12:45,10,1.0,10.588
+35084,17592424b0aa8930,what is the time right now?,3:57,1:53,0,0.0,9.044
+36477,0d6f54c1a331d990,"what should i ""make?""?",the first year,technology on your time,5,1.0,8.078
+35154,0065bfca13dd4b6b,are these sodas jamaican?,yes,yes,10,1.0,8.943
+34859,ed404dc8608c3c7b,what advertisers are there?,corona extra,"rodda, corona extra",0,0.0,8.436

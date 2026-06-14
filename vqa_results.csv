@@ -1,0 +1,501 @@
+﻿question_id,image,question,ground_truth,prediction,match_count,vqa_score,infer_time(s)
+337185002,COCO_val2014_000000337185.jpg,How many zebras are running?,0,0,9,1.0,12.363
+405882001,COCO_val2014_000000405882.jpg,What is the occasion for this cake?,birthday,Birthday,7,1.0,9.698
+16631021,COCO_val2014_000000016631.jpg,What does the sign say?,zone,Zone,9,1.0,9.969
+479762009,COCO_val2014_000000479762.jpg,Is it sunny outside?,yes,Yes,6,1.0,8.404
+53410003,COCO_val2014_000000053410.jpg,What is around his neck?,lanyard,lanyard,5,1.0,9.26
+292225001,COCO_val2014_000000292225.jpg,What sport are these people playing?,tennis,Tennis,10,1.0,9.119
+290451003,COCO_val2014_000000290451.jpg,Is there  place for people to wait on the train?,no,Yes,4,1.0,9.773
+356967005,COCO_val2014_000000356967.jpg,Are they on a paved roadway?,yes,Yes,8,1.0,9.654
+569839002,COCO_val2014_000000569839.jpg,What is the girl eating?,sandwich,Hot dog.,0,0.0,9.58
+353295000,COCO_val2014_000000353295.jpg,Where is the hot dog?,in bun,on paper,1,0.333,9.093
+445950002,COCO_val2014_000000445950.jpg,What does the pillow say?,family,Family,10,1.0,9.963
+388481007,COCO_val2014_000000388481.jpg,What website is the laptop on?,itv,itv.com,0,0.0,9.011
+135029011,COCO_val2014_000000135029.jpg,How many blueberries are visible?,0,0,8,1.0,9.949
+377802005,COCO_val2014_000000377802.jpg,Is this woman wearing shorts?,yes,Yes,10,1.0,9.684
+285361003,COCO_val2014_000000285361.jpg,What is this person riding on?,water skis,Water skis,4,1.0,9.973
+565622008,COCO_val2014_000000565622.jpg,What toppings are on the bread?,"spinach, artichoke",vegetables,1,0.333,9.865
+456046004,COCO_val2014_000000456046.jpg,Did the graffiti artist have to work fast?,yes,No,3,1.0,9.234
+558483002,COCO_val2014_000000558483.jpg,What color is the ground?,green,Green,8,1.0,9.264
+75636003,COCO_val2014_000000075636.jpg,How many bowls are there?,1,1,8,1.0,9.087
+45496002,COCO_val2014_000000045496.jpg,How many sheep are there?,2,2,9,1.0,9.298
+368038004,COCO_val2014_000000368038.jpg,Is the train derailed?,no,No,10,1.0,8.844
+355569000,COCO_val2014_000000355569.jpg,Is this indoor?,no,No,10,1.0,9.655
+499957002,COCO_val2014_000000499957.jpg,What color is the coffee cup?,red,Red,9,1.0,10.291
+89804003,COCO_val2014_000000089804.jpg,How many candles?,1,1,10,1.0,10.318
+378117002,COCO_val2014_000000378117.jpg,Is there meat in the bowl?,no,No,10,1.0,9.044
+34580000,COCO_val2014_000000034580.jpg,What color is the fire hydrant?,red and white,red and white,7,1.0,9.697
+191842000,COCO_val2014_000000191842.jpg,What person is on the screen?,man,man,4,1.0,9.813
+231408017,COCO_val2014_000000231408.jpg,"Besides white, what other color is this cat?",gray,brown,3,1.0,10.268
+568630000,COCO_val2014_000000568630.jpg,What is her hairstyle?,braids,braids,4,1.0,10.671
+286322002,COCO_val2014_000000286322.jpg,Is the wine in the glass white?,yes,Yes,8,1.0,9.907
+368807002,COCO_val2014_000000368807.jpg,What are the words on the sign?,don't stop drinking,Don't stop drinking,10,1.0,10.054
+211891000,COCO_val2014_000000211891.jpg,What is this transport?,train,Train,9,1.0,9.844
+391978000,COCO_val2014_000000391978.jpg,Is the TV on or off?,on,On,10,1.0,9.878
+443038001,COCO_val2014_000000443038.jpg,What #s do you see?,2,2,8,1.0,9.201
+399830007,COCO_val2014_000000399830.jpg,What's on the shelf on the left?,vase,Files,0,0.0,10.204
+53909003,COCO_val2014_000000053909.jpg,Is the phone on?,yes,No,0,0.0,9.952
+156497014,COCO_val2014_000000156497.jpg,What is this piece of furniture mostly used for?,sitting,coffee table,0,0.0,9.267
+225847000,COCO_val2014_000000225847.jpg,Is the window open enough?,yes,Yes,9,1.0,10.028
+420914014,COCO_val2014_000000420914.jpg,What is the black item on the right?,chair,Chair,10,1.0,9.605
+122213011,COCO_val2014_000000122213.jpg,Is this art?,no,No,8,1.0,9.757
+273791001,COCO_val2014_000000273791.jpg,What is the person carrying?,umbrella,umbrella,9,1.0,8.876
+324383002,COCO_val2014_000000324383.jpg,Is the cat on a table?,no,No,10,1.0,10.072
+379376001,COCO_val2014_000000379376.jpg,Is there a bridge visible?,no,No,10,1.0,10.242
+480407014,COCO_val2014_000000480407.jpg,What is the green stuff?,broccoli,Broccoli,10,1.0,10.578
+86650012,COCO_val2014_000000086650.jpg,Does the desk belong to a man or a woman?,woman,woman,8,1.0,10.439
+358268028,COCO_val2014_000000358268.jpg,Do people usually look so serious when having fun at a game?,no,No,9,1.0,10.185
+419867000,COCO_val2014_000000419867.jpg,What store is this taken in?,walmart,Walmart,7,1.0,9.739
+580117001,COCO_val2014_000000580117.jpg,What activity are the people involved in?,snowboarding,Skiing,2,0.667,10.24
+540619002,COCO_val2014_000000540619.jpg,What is laying on the floor?,cardboard,Cardboard,5,1.0,9.989
+577893006,COCO_val2014_000000577893.jpg,What color are the man's shoes?,white,White,8,1.0,8.979
+545101007,COCO_val2014_000000545101.jpg,What room is in the photo?,kitchen,Kitchen,9,1.0,9.346
+257448002,COCO_val2014_000000257448.jpg,Are the police lights flashing?,no,No,9,1.0,9.803
+246124000,COCO_val2014_000000246124.jpg,What is behind the men?,mountain,mountain,7,1.0,9.306
+170278000,COCO_val2014_000000170278.jpg,What form of music collection do they have?,cds,CDs,4,1.0,9.985
+325043000,COCO_val2014_000000325043.jpg,What color outfit is the woman wearing?,red,Red,9,1.0,9.91
+549386001,COCO_val2014_000000549386.jpg,Is it a  sunny day?,yes,Yes,10,1.0,9.181
+96110001,COCO_val2014_000000096110.jpg,What is on the hot dogs?,onions,Onions,3,1.0,9.55
+329946002,COCO_val2014_000000329946.jpg,Are there any windows?,yes,Yes,10,1.0,9.521
+436722001,COCO_val2014_000000436722.jpg,What color is this food?,blue,blue,7,1.0,10.049
+343401002,COCO_val2014_000000343401.jpg,What shape is the orange reflector?,triangle,Triangle,10,1.0,10.058
+45687006,COCO_val2014_000000045687.jpg,Is the projector on?,no,No,9,1.0,8.506
+211203000,COCO_val2014_000000211203.jpg,How many stripes are on the plate?,3,2,0,0.0,9.983
+443597006,COCO_val2014_000000443597.jpg,Is this a healthy breakfast?,no,No,10,1.0,10.042
+238291000,COCO_val2014_000000238291.jpg,What kind of animal is near the fish tank?,cat,Cat,9,1.0,9.897
+55524002,COCO_val2014_000000055524.jpg,What are the columns made of?,marble,marble,10,1.0,9.3
+502433007,COCO_val2014_000000502433.jpg,What color is the Frisbee?,yellow,Green,4,1.0,8.674
+162144007,COCO_val2014_000000162144.jpg,Is this snow likely man-made?,no,No,9,1.0,9.515
+136141001,COCO_val2014_000000136141.jpg,What color are the bananas?,green,Green,9,1.0,9.375
+488240007,COCO_val2014_000000488240.jpg,How many times is there?,0,2,1,0.333,9.913
+255479003,COCO_val2014_000000255479.jpg,Is this a normal beach scene?,yes,Yes,10,1.0,9.712
+167337001,COCO_val2014_000000167337.jpg,Where are the players playing?,baseball,Baseball field,0,0.0,9.446
+439593003,COCO_val2014_000000439593.jpg,Are the trains the same color?,yes,Yes,10,1.0,10.176
+367673001,COCO_val2014_000000367673.jpg,What is the girl's number?,8,8,10,1.0,10.349
+273728005,COCO_val2014_000000273728.jpg,What color is the man's cap?,white,white,5,1.0,10.233
+355370002,COCO_val2014_000000355370.jpg,What color is the plane?,white,white,10,1.0,10.174
+411241008,COCO_val2014_000000411241.jpg,What's on the laptop that the man is using?,squirrel,cat,0,0.0,10.363
+53016001,COCO_val2014_000000053016.jpg,How many giraffes are in this picture?,4,4,9,1.0,9.966
+215024005,COCO_val2014_000000215024.jpg,Is the boat docked?,no,No,10,1.0,9.662
+118625002,COCO_val2014_000000118625.jpg,Where is the bag?,counter,Counter,5,1.0,9.722
+21202002,COCO_val2014_000000021202.jpg,What name is on the street sign?,pacheco,Pacheco,7,1.0,9.701
+421757004,COCO_val2014_000000421757.jpg,How many boats do you see in this picture?,2,2,9,1.0,8.773
+251892003,COCO_val2014_000000251892.jpg,Is that pretzel bread?,no,No,10,1.0,9.991
+545407001,COCO_val2014_000000545407.jpg,What image is on the tail of the plane?,sun,bird,0,0.0,9.269
+22775002,COCO_val2014_000000022775.jpg,What color is the bowl?,blue,black,0,0.0,10.206
+103490001,COCO_val2014_000000103490.jpg,What is in the glass?,milk,milk,9,1.0,10.684
+554620000,COCO_val2014_000000554620.jpg,What is in the girl's hair?,nothing,nothing,3,1.0,8.79
+116786002,COCO_val2014_000000116786.jpg,Is this toilet working?,no,No,10,1.0,9.728
+69293003,COCO_val2014_000000069293.jpg,Is this an updated bathroom?,yes,No,5,1.0,9.806
+240329002,COCO_val2014_000000240329.jpg,What number of boats are floating on this water?,1,1,10,1.0,9.725
+414236003,COCO_val2014_000000414236.jpg,Is there cheese in the sandwich?,yes,No,1,0.333,8.83
+451324001,COCO_val2014_000000451324.jpg,Is this a restaurant?,no,No,10,1.0,8.705
+24112003,COCO_val2014_000000024112.jpg,What is on the man's tie?,diamonds,stripes,0,0.0,9.333
+235644002,COCO_val2014_000000235644.jpg,What kind of transportation is this?,train,Train,8,1.0,9.273
+514915006,COCO_val2014_000000514915.jpg,What is the dog lying on top of?,floor,tile,1,0.333,9.81
+168698001,COCO_val2014_000000168698.jpg,What color is the suitcase?,green,Green,10,1.0,9.365
+268620002,COCO_val2014_000000268620.jpg,Is the man asleep?,no,No,9,1.0,9.681
+440434005,COCO_val2014_000000440434.jpg,What is the flower pot sitting on?,floor,floor,2,0.667,9.227
+222842002,COCO_val2014_000000222842.jpg,Is that a lemon in the glass in the back of the photo?,yes,Yes,10,1.0,8.851
+505162004,COCO_val2014_000000505162.jpg,What color is the front of this bus?,red,Red,7,1.0,9.739
+575018001,COCO_val2014_000000575018.jpg,How many people are shown?,3,4,2,0.667,8.855
+27778000,COCO_val2014_000000027778.jpg,How many are watching the kite?,3,3,8,1.0,9.769
+310543002,COCO_val2014_000000310543.jpg,What color is the person's shoes?,black,Black,10,1.0,9.782
+27897003,COCO_val2014_000000027897.jpg,Where are the men and women?,train station,Train station,4,1.0,9.836
+92738001,COCO_val2014_000000092738.jpg,Can the child  open the appliance door?,yes,Yes,10,1.0,10.255
+171740001,COCO_val2014_000000171740.jpg,Is this a basement room?,no,Yes,4,1.0,10.115
+282098002,COCO_val2014_000000282098.jpg,Is it sunny or cloudy?,sunny,Sunny,8,1.0,9.883
+257767020,COCO_val2014_000000257767.jpg,Is this keyboard for a Mac or a PC?,pc,PC,9,1.0,9.098
+34708000,COCO_val2014_000000034708.jpg,Is there a shadow blocking the woman in pink?,no,No,10,1.0,8.666
+514901002,COCO_val2014_000000514901.jpg,Are these edibles classic companions?,yes,Yes,10,1.0,10.204
+424793006,COCO_val2014_000000424793.jpg,What animal is this?,bird,bird,8,1.0,9.847
+408221001,COCO_val2014_000000408221.jpg,What color is the nearest animal?,brown,brown,10,1.0,9.795
+209239003,COCO_val2014_000000209239.jpg,Do you see a fan?,no,no,10,1.0,9.518
+50829081,COCO_val2014_000000050829.jpg,How many toothpicks are in the sandwich?,2,2,10,1.0,9.784
+221272003,COCO_val2014_000000221272.jpg,What are the yellow and orange objects the children are wearing?,pants,pants,3,1.0,9.563
+405740017,COCO_val2014_000000405740.jpg,Is the laptop on?,yes,Yes,9,1.0,9.864
+457271001,COCO_val2014_000000457271.jpg,Does the baby like the horse?,yes,Yes,10,1.0,9.646
+173830002,COCO_val2014_000000173830.jpg,What purpose does this person's stance serve?,speed,Balance,0,0.0,8.74
+526737002,COCO_val2014_000000526737.jpg,Does the fireplace work?,yes,Yes,9,1.0,8.976
+343466004,COCO_val2014_000000343466.jpg,What color are the cabinets?,brown,Tan,4,1.0,9.28
+502336002,COCO_val2014_000000502336.jpg,What language is this?,german,German,5,1.0,9.826
+474170004,COCO_val2014_000000474170.jpg,What kind of tree on the left side of page?,green,Oak,1,0.333,9.822
+17484000,COCO_val2014_000000017484.jpg,Does the girl have a tattoo?,yes,Yes,9,1.0,9.642
+249672005,COCO_val2014_000000249672.jpg,Can you see the sun?,yes,Yes,9,1.0,9.922
+486118004,COCO_val2014_000000486118.jpg,How many fingers is each girl holding up?,2,"2, 1, 2, 2, 2",0,0.0,9.593
+549518002,COCO_val2014_000000549518.jpg,What are the yellow fruits?,bananas,Bananas,6,1.0,9.09
+571279002,COCO_val2014_000000571279.jpg,Is the food on the plate or in a serving tray?,serving tray,Serving tray,8,1.0,10.254
+297574001,COCO_val2014_000000297574.jpg,How many slices of pizza are on the plate?,8,6,0,0.0,9.481
+357279002,COCO_val2014_000000357279.jpg,What kind of print is on the snowboarders pants?,camouflage,Camouflage,5,1.0,10.107
+529507002,COCO_val2014_000000529507.jpg,Is there a window in the room?,yes,Yes,10,1.0,9.001
+200381018,COCO_val2014_000000200381.jpg,Are they happy?,yes,No,4,1.0,10.441
+568041003,COCO_val2014_000000568041.jpg,How many lights are on the fixture in the corner that is on?,1,1,9,1.0,10.216
+46859003,COCO_val2014_000000046859.jpg,Is the gentlemen batting wearing cleats?,yes,Yes,5,1.0,10.003
+158498003,COCO_val2014_000000158498.jpg,What is in the mug?,orange juice,Juice,0,0.0,9.832
+508006002,COCO_val2014_000000508006.jpg,Is the cake on fire?,no,No,9,1.0,9.979
+211317002,COCO_val2014_000000211317.jpg,Are the giraffe related to each other?,yes,Yes,9,1.0,9.913
+347664005,COCO_val2014_000000347664.jpg,What is the weather?,cloudy,Sunny,2,0.667,10.292
+268484001,COCO_val2014_000000268484.jpg,Is this daytime or night time?,daytime,Daytime,6,1.0,9.415
+262101000,COCO_val2014_000000262101.jpg,Why is her mouth open?,smiling,Smiling,8,1.0,8.985
+386204026,COCO_val2014_000000386204.jpg,What color is the girls outfit?,gray,black,0,0.0,9.832
+212351003,COCO_val2014_000000212351.jpg,What is in the sky?,plane,airplane,3,1.0,10.09
+336356002,COCO_val2014_000000336356.jpg,Is the pizza sliced?,no,No,9,1.0,10.154
+470417002,COCO_val2014_000000470417.jpg,How many surfers are there?,2,2,10,1.0,10.054
+132317001,COCO_val2014_000000132317.jpg,What numbers are on the top of the computer screen?,1126,11:26,1,0.333,9.86
+31748002,COCO_val2014_000000031748.jpg,Is this street pedestrian friendly?,yes,Yes,8,1.0,9.551
+42752001,COCO_val2014_000000042752.jpg,Why is he wearing a scarf?,cold,Cold,4,1.0,10.364
+290532000,COCO_val2014_000000290532.jpg,Where is the post it note?,none,on monitor,0,0.0,9.95
+133620003,COCO_val2014_000000133620.jpg,Is the woman happy?,yes,Yes,10,1.0,9.405
+15826000,COCO_val2014_000000015826.jpg,How many people have theirs shirts off?,3,2,1,0.333,9.848
+98872006,COCO_val2014_000000098872.jpg,What is in her right hand?,beer,Can,3,1.0,9.794
+13031001,COCO_val2014_000000013031.jpg,What shape is the water splash making in the air?,circle,Circle,8,1.0,10.194
+392632004,COCO_val2014_000000392632.jpg,What number is on the mans jersey?,23,23,10,1.0,9.297
+513064006,COCO_val2014_000000513064.jpg,Is this room clean?,no,No,8,1.0,9.51
+468997003,COCO_val2014_000000468997.jpg,Is there an insurance ad?,no,No,9,1.0,9.995
+273711006,COCO_val2014_000000273711.jpg,What kind of fruit?,grapes,Watermelon,2,0.667,9.723
+166896002,COCO_val2014_000000166896.jpg,Is there coal on the train?,yes,Yes,10,1.0,9.917
+61722000,COCO_val2014_000000061722.jpg,Is the child sitting or standing?,standing,standing,8,1.0,9.706
+515421006,COCO_val2014_000000515421.jpg,Where is the dog?,bed,bed,7,1.0,9.047
+531499001,COCO_val2014_000000531499.jpg,What color are the cabinets?,brown,white,2,0.667,9.599
+318722001,COCO_val2014_000000318722.jpg,Is the oven light on?,no,No,10,1.0,9.462
+192362001,COCO_val2014_000000192362.jpg,What type of trees are in this picture?,pine,Pine,7,1.0,10.095
+581886001,COCO_val2014_000000581886.jpg,What is on the beach?,surfers,Surfboards.,0,0.0,9.159
+569850009,COCO_val2014_000000569850.jpg,Can you park here?,yes,No,3,1.0,9.561
+404568012,COCO_val2014_000000404568.jpg,What species is this bird?,seagull,Seagull,6,1.0,9.999
+526580033,COCO_val2014_000000526580.jpg,Are there plants in this picture?,no,No,10,1.0,10.001
+249524009,COCO_val2014_000000249524.jpg,Does this look like a lonely bench?,yes,Yes,5,1.0,10.069
+427135009,COCO_val2014_000000427135.jpg,Are they playing indoors?,no,No,9,1.0,9.794
+441430001,COCO_val2014_000000441430.jpg,What color are the bananas?,green,green,8,1.0,10.119
+305351003,COCO_val2014_000000305351.jpg,Which way is the giraffe pointing?,left,Left,8,1.0,10.16
+196313001,COCO_val2014_000000196313.jpg,Do these people look like they are having a good time?,yes,Yes,10,1.0,9.694
+576566001,COCO_val2014_000000576566.jpg,What time of day is it?,dusk,Evening,1,0.333,10.14
+182784000,COCO_val2014_000000182784.jpg,Can I buy water here?,yes,Yes,10,1.0,9.197
+21563010,COCO_val2014_000000021563.jpg,How many slices of pizza are left uneaten?,8,8,10,1.0,9.545
+101985008,COCO_val2014_000000101985.jpg,What type of sport are they playing?,soccer,Soccer,10,1.0,9.845
+535198002,COCO_val2014_000000535198.jpg,What color is the sky tinted?,blue,Teal,1,0.333,10.106
+30356005,COCO_val2014_000000030356.jpg,What pattern is shown in the cat's fur?,stripes,striped,2,0.667,9.798
+477598000,COCO_val2014_000000477598.jpg,How are the ears?,floppy,Floppy,5,1.0,9.11
+479350000,COCO_val2014_000000479350.jpg,Does all of the girls have ponytails?,no,No,10,1.0,9.738
+474170016,COCO_val2014_000000474170.jpg,What animals are in the picture?,elephants,Elephants,8,1.0,8.706
+263346001,COCO_val2014_000000263346.jpg,Is this plane flying?,no,No,10,1.0,8.806
+418281003,COCO_val2014_000000418281.jpg,Are there any bulls visible?,yes,Yes,7,1.0,9.07
+531917003,COCO_val2014_000000531917.jpg,What color are the plants?,green,green,9,1.0,9.715
+453026010,COCO_val2014_000000453026.jpg,What are those circles?,cupcakes,Muffins,4,1.0,9.538
+361819000,COCO_val2014_000000361819.jpg,How many people are shown?,20,15,0,0.0,10.637
+344029008,COCO_val2014_000000344029.jpg,What number is displayed on the bus?,401,401E,0,0.0,10.084
+21396001,COCO_val2014_000000021396.jpg,"If someone were to begin stroking these cats, what is a sound they might start making?",purr,Purr,6,1.0,9.785
+370999002,COCO_val2014_000000370999.jpg,What do the objects all have in common?,circles,Holes,0,0.0,9.41
+177258001,COCO_val2014_000000177258.jpg,Why did the people walk away from their meal?,not hungry,Cat,1,0.333,10.069
+17282005,COCO_val2014_000000017282.jpg,What is the fence made of?,metal,metal,7,1.0,10.443
+506085011,COCO_val2014_000000506085.jpg,What does the sign say right behind the man?,picture,No sign,0,0.0,9.793
+71877000,COCO_val2014_000000071877.jpg,What activity is he doing?,skateboarding,Skateboarding,9,1.0,9.621
+442231005,COCO_val2014_000000442231.jpg,Where are the paper plates?,table,On table,4,1.0,9.797
+221003007,COCO_val2014_000000221003.jpg,What material is the wall made of?,brick,Brick,9,1.0,8.901
+540694001,COCO_val2014_000000540694.jpg,What color is the car the giraffe is touching?,blue,Blue,10,1.0,9.798
+274613003,COCO_val2014_000000274613.jpg,Is the tree falling down?,yes,Yes,7,1.0,9.666
+156999001,COCO_val2014_000000156999.jpg,Is the giraffes neck bent?,yes,Yes,10,1.0,9.665
+186991002,COCO_val2014_000000186991.jpg,Is there a pond in the background?,yes,No,4,1.0,9.736
+93672011,COCO_val2014_000000093672.jpg,What color is the statue?,clear,Gray,2,0.667,9.591
+118564006,COCO_val2014_000000118564.jpg,Is a skateboarder jumping down steps?,no,No,10,1.0,10.133
+575911000,COCO_val2014_000000575911.jpg,What color is the animal?,orange,Orange,3,1.0,9.32
+34662002,COCO_val2014_000000034662.jpg,In what section of the picture are the sheep located?,upper right,Center,0,0.0,9.786
+165937002,COCO_val2014_000000165937.jpg,How many planes are on the runway?,2,2,9,1.0,9.782
+465887002,COCO_val2014_000000465887.jpg,Is this person flying a kite?,yes,Yes,10,1.0,8.576
+532212000,COCO_val2014_000000532212.jpg,What color are the flowers?,red and white,Red and white,3,1.0,10.12
+78522001,COCO_val2014_000000078522.jpg,What color is the grass?,green,green,10,1.0,9.797
+450355004,COCO_val2014_000000450355.jpg,Is this person an adult?,yes,Yes,10,1.0,9.654
+120632011,COCO_val2014_000000120632.jpg,Are trees visible?,no,No,10,1.0,10.068
+341681004,COCO_val2014_000000341681.jpg,What color are the player's shorts?,black,black,9,1.0,9.83
+570736005,COCO_val2014_000000570736.jpg,Can a person bathe in this room?,yes,Yes,10,1.0,9.433
+218988003,COCO_val2014_000000218988.jpg,How much longer does the microwave have?,0:00,0:00,6,1.0,8.459
+169855000,COCO_val2014_000000169855.jpg,Is this bird large?,no,No,10,1.0,9.974
+218494000,COCO_val2014_000000218494.jpg,How many laptop computers are on the table?,1,1,10,1.0,9.679
+167964002,COCO_val2014_000000167964.jpg,How many street signs are on the road?,1,1,4,1.0,9.845
+494439001,COCO_val2014_000000494439.jpg,What is the train riding on?,tracks,tracks,7,1.0,9.364
+546226002,COCO_val2014_000000546226.jpg,What time is it?,9:00,1:50,0,0.0,10.082
+375015004,COCO_val2014_000000375015.jpg,How many bears are in the picture?,1,1,10,1.0,9.077
+434672003,COCO_val2014_000000434672.jpg,What is the title of the book?,blonde,Blonde,10,1.0,9.676
+296243001,COCO_val2014_000000296243.jpg,What is above the car?,surfboards,surfboards,8,1.0,9.484
+382307013,COCO_val2014_000000382307.jpg,What is the reflection on the TV coming from?,light,room,0,0.0,9.461
+115618003,COCO_val2014_000000115618.jpg,What is on the ground?,snow,Snow,10,1.0,9.82
+225784001,COCO_val2014_000000225784.jpg,Does the bike have a kickstand?,yes,Yes,10,1.0,9.278
+567142005,COCO_val2014_000000567142.jpg,Is the woman blonde?,no,no,10,1.0,9.506
+484331004,COCO_val2014_000000484331.jpg,What is the kid holding?,bat,bat,9,1.0,9.15
+252629005,COCO_val2014_000000252629.jpg,What is the fruit called that is on the cake?,strawberry,Strawberry,8,1.0,8.885
+168991000,COCO_val2014_000000168991.jpg,What color is the girl's shirt?,white,white,9,1.0,9.553
+352584000,COCO_val2014_000000352584.jpg,What color are the walls?,white,White,5,1.0,10.104
+544639005,COCO_val2014_000000544639.jpg,Would this be a baby zebra?,no,No,9,1.0,9.495
+232612002,COCO_val2014_000000232612.jpg,What is she eating?,cinnamon roll,donut,1,0.333,9.827
+34193005,COCO_val2014_000000034193.jpg,Has this type of creature ever really existed?,yes,Yes,10,1.0,10.201
+372914008,COCO_val2014_000000372914.jpg,Is the street wet?,no,No,10,1.0,9.084
+169076000,COCO_val2014_000000169076.jpg,Where is this picture taken?,bedroom,Living room,1,0.333,10.355
+148719002,COCO_val2014_000000148719.jpg,What color is the dodge truck?,red,Orange,1,0.333,10.15
+342295001,COCO_val2014_000000342295.jpg,What color is the floor?,white,White,4,1.0,9.86
+85940005,COCO_val2014_000000085940.jpg,Is this kitchen clean or dirty?,clean,Clean,9,1.0,8.71
+214527029,COCO_val2014_000000214527.jpg,What day is it?,sunday,Monday,0,0.0,10.266
+158182003,COCO_val2014_000000158182.jpg,Is there a bookstore nearby?,no,No,10,1.0,9.481
+359947004,COCO_val2014_000000359947.jpg,Was this picture taken with a camera phone?,no,Yes,0,0.0,9.417
+414917003,COCO_val2014_000000414917.jpg,Is it raining outside?,no,No,10,1.0,8.85
+424812002,COCO_val2014_000000424812.jpg,Is it daytime?,yes,No,4,1.0,8.926
+469294004,COCO_val2014_000000469294.jpg,Are the oranges ripe?,yes,Yes,9,1.0,10.069
+93806002,COCO_val2014_000000093806.jpg,Are these two accomplishes skiers?,yes,Yes,9,1.0,9.913
+448511007,COCO_val2014_000000448511.jpg,Is that a fork or a spoon?,fork,Fork,10,1.0,9.412
+44575003,COCO_val2014_000000044575.jpg,What game are they playing?,tee ball,Baseball,1,0.333,9.584
+71090004,COCO_val2014_000000071090.jpg,Who is squeeze in between the big bear?,cat,Cat,9,1.0,9.199
+152106004,COCO_val2014_000000152106.jpg,Is this a petting zoo?,no,No,10,1.0,9.457
+460783001,COCO_val2014_000000460783.jpg,What are the bananas sitting in?,bowl,Bowl,9,1.0,9.461
+256787002,COCO_val2014_000000256787.jpg,Is this dog dressed in a way that is typical for dogs?,no,No,10,1.0,9.259
+374734011,COCO_val2014_000000374734.jpg,How many people are in this picture?,1,1,10,1.0,8.637
+500716001,COCO_val2014_000000500716.jpg,Is this person clean shaven?,no,No,10,1.0,9.43
+137271001,COCO_val2014_000000137271.jpg,Are the two men under the blue kite wearing clothes?,yes,Yes,5,1.0,9.503
+451373009,COCO_val2014_000000451373.jpg,Is this where freddy lives?,no,No,8,1.0,9.531
+526751005,COCO_val2014_000000526751.jpg,Where are the boats?,land,shore,2,0.667,9.528
+116133001,COCO_val2014_000000116133.jpg,What type of beverage are the people waiting to drink?,wine,Wine,10,1.0,9.934
+175604010,COCO_val2014_000000175604.jpg,What's in the cup?,coffee,Coffee,8,1.0,10.306
+239148000,COCO_val2014_000000239148.jpg,Is the ground covered with grass?,no,No,10,1.0,9.482
+413058004,COCO_val2014_000000413058.jpg,How many laptop computers are on the table?,2,2,10,1.0,9.984
+80010001,COCO_val2014_000000080010.jpg,How many men can be seen?,4,4,10,1.0,9.29
+287535000,COCO_val2014_000000287535.jpg,What does the sign say to do?,no u turn,No u-turn,2,0.667,10.111
+418535003,COCO_val2014_000000418535.jpg,What color bag does he have in his hand?,red,Red,8,1.0,8.763
+83013002,COCO_val2014_000000083013.jpg,How many people are in the picture?,2,2,10,1.0,9.739
+143221002,COCO_val2014_000000143221.jpg,Is the elephant in the wild?,no,No,9,1.0,9.715
+282719002,COCO_val2014_000000282719.jpg,Are the curtains all one color?,no,No,9,1.0,9.469
+558388000,COCO_val2014_000000558388.jpg,Who made the birthday cake?,mom,Baker,0,0.0,9.98
+278934001,COCO_val2014_000000278934.jpg,What does the sign say?,stop,Stop,10,1.0,9.674
+388225000,COCO_val2014_000000388225.jpg,Does the man have glasses on?,yes,Yes,9,1.0,9.008
+542257003,COCO_val2014_000000542257.jpg,Can a person ride this train?,yes,Yes,9,1.0,9.922
+198768004,COCO_val2014_000000198768.jpg,What is this man thinking about?,winning,Game strategy,0,0.0,9.692
+554981000,COCO_val2014_000000554981.jpg,Is that water or grass?,grass,water,0,0.0,9.462
+262626001,COCO_val2014_000000262626.jpg,Is the kitty on the umbrella?,no,no,10,1.0,8.941
+376295016,COCO_val2014_000000376295.jpg,How many candles are in the picture?,1,1,10,1.0,8.972
+324321000,COCO_val2014_000000324321.jpg,What color is the bus?,white,White,10,1.0,9.751
+69914006,COCO_val2014_000000069914.jpg,What color is the wall in the background?,white,white,4,1.0,9.67
+362521000,COCO_val2014_000000362521.jpg,Which way is Niles Cyn?,right,Right,8,1.0,8.78
+382333003,COCO_val2014_000000382333.jpg,Is there a house on the photo?,no,no,10,1.0,9.837
+214386004,COCO_val2014_000000214386.jpg,Is this likely the apartment of an elderly person?,no,No,8,1.0,9.476
+555669009,COCO_val2014_000000555669.jpg,Are the girl's eyes open or closed?,closed,Closed,10,1.0,10.232
+64523000,COCO_val2014_000000064523.jpg,Is this black and white?,yes,Yes,10,1.0,8.966
+91715010,COCO_val2014_000000091715.jpg,"On average, how many people can commute on this vehicle?",2,10,0,0.0,9.263
+201561027,COCO_val2014_000000201561.jpg,What color shirt is the person who is going to catch the Frisbee wearing?,black,black,8,1.0,9.435
+69698003,COCO_val2014_000000069698.jpg,How many slices are there?,1,1,10,1.0,10.402
+105053006,COCO_val2014_000000105053.jpg,Is this a beginner skier?,no,No,10,1.0,9.896
+382625005,COCO_val2014_000000382625.jpg,Is there a bicycle?,no,no,10,1.0,9.607
+24919007,COCO_val2014_000000024919.jpg,Are the animals fighting?,yes,No,2,0.667,9.814
+454348001,COCO_val2014_000000454348.jpg,Are there any people around?,no,No,10,1.0,9.777
+288579007,COCO_val2014_000000288579.jpg,Is it a sunny day?,yes,Yes,10,1.0,9.803
+443498000,COCO_val2014_000000443498.jpg,How busy was this street an hour ago?,very,not busy,2,0.667,9.709
+235017002,COCO_val2014_000000235017.jpg,What color is the skirt?,yellow,Yellow,7,1.0,9.653
+356414002,COCO_val2014_000000356414.jpg,What color are the chairs people are sitting in?,green,green,10,1.0,9.747
+522889000,COCO_val2014_000000522889.jpg,What is the number lit up under the 3 letters I B M?,182,142,0,0.0,9.733
+319908000,COCO_val2014_000000319908.jpg,Is this a practice session?,yes,Yes,9,1.0,9.664
+568710001,COCO_val2014_000000568710.jpg,What geometric shape is shown on the rug in various sizes?,square,Square,8,1.0,10.031
+381323000,COCO_val2014_000000381323.jpg,What room is the cat in?,bathroom,Bathroom,10,1.0,10.098
+561337002,COCO_val2014_000000561337.jpg,What is the surfer standing on?,surfboard,surfboard,8,1.0,10.228
+383533000,COCO_val2014_000000383533.jpg,Are the people wearing bathing suits?,no,No,6,1.0,9.828
+315187024,COCO_val2014_000000315187.jpg,Does this look like a border crossing?,no,No,10,1.0,9.941
+33489002,COCO_val2014_000000033489.jpg,Is that a volleyball net?,no,No,10,1.0,9.246
+468457008,COCO_val2014_000000468457.jpg,Is this broccoli?,no,No,10,1.0,9.861
+359843029,COCO_val2014_000000359843.jpg,What kind of weather did this area recently have?,snow,Snow.,0,0.0,9.773
+410225015,COCO_val2014_000000410225.jpg,Is there scissors on the table?,no,no,10,1.0,9.596
+124975005,COCO_val2014_000000124975.jpg,Are the zebras facing opposite directions?,yes,No,0,0.0,10.574
+283190011,COCO_val2014_000000283190.jpg,How many towels appear in the image?,1,1,8,1.0,9.526
+481886001,COCO_val2014_000000481886.jpg,What is being eaten?,pizza,Pizza,10,1.0,9.494
+314690000,COCO_val2014_000000314690.jpg,How many mirrors are in the photo?,2,2,10,1.0,9.658
+272870012,COCO_val2014_000000272870.jpg,What color is the chair the shopping bag is on?,brown,brown,9,1.0,9.333
+9262007,COCO_val2014_000000009262.jpg,How many slices of cake have chocolate?,0,3,1,0.333,9.996
+415872000,COCO_val2014_000000415872.jpg,What color is the snowboard?,blue,Blue,3,1.0,9.496
+164856000,COCO_val2014_000000164856.jpg,Why is there a big rail attached to the front of the truck?,it's home,Protection,1,0.333,9.7
+68005016,COCO_val2014_000000068005.jpg,What color is the dog?,white and brown,White and brown,4,1.0,9.6
+372620002,COCO_val2014_000000372620.jpg,What color is his shoes?,blue,Blue,8,1.0,9.224
+408534005,COCO_val2014_000000408534.jpg,Is the water blue?,yes,Yes,8,1.0,9.696
+396779000,COCO_val2014_000000396779.jpg,What kind of birds are in the water?,ducks,Ducks,10,1.0,9.879
+415672002,COCO_val2014_000000415672.jpg,How many faces are in this picture?,9,Many,1,0.333,9.798
+203747005,COCO_val2014_000000203747.jpg,What is the building made of?,glass and brick,glass,2,0.667,9.659
+465092000,COCO_val2014_000000465092.jpg,How many benches are there?,2,2,10,1.0,9.48
+472399000,COCO_val2014_000000472399.jpg,Who is under the chair?,cat,Cat,10,1.0,9.499
+255912000,COCO_val2014_000000255912.jpg,What food is next to the sandwich?,salad,Salad,7,1.0,9.779
+461573000,COCO_val2014_000000461573.jpg,Does the grass need to be cut?,no,No,6,1.0,9.684
+408624003,COCO_val2014_000000408624.jpg,Is it daytime?,no,No,10,1.0,9.428
+167593006,COCO_val2014_000000167593.jpg,What is the man carrying?,surfboard,surfboard,10,1.0,9.211
+239537002,COCO_val2014_000000239537.jpg,Where is the ball?,air,air,5,1.0,9.471
+53744000,COCO_val2014_000000053744.jpg,Which item pictured is a fruit?,tomato,Tomato,6,1.0,9.487
+337505002,COCO_val2014_000000337505.jpg,"Looking at the sparse items, what part of the home is this?",kitchen,Kitchen,10,1.0,9.569
+237071000,COCO_val2014_000000237071.jpg,Which hand has a racket?,right,Right,10,1.0,9.749
+291286002,COCO_val2014_000000291286.jpg,What is the floor made of?,tile,Brick,3,1.0,9.579
+145312000,COCO_val2014_000000145312.jpg,How did the dog catch the Frisbee?,jumping,Jumped,2,0.667,9.034
+156299004,COCO_val2014_000000156299.jpg,What color is the sign?,yellow,Yellow,2,0.667,7.615
+476008000,COCO_val2014_000000476008.jpg,When do you usually buy pumpkins?,fall,Fall,4,1.0,9.672
+236268004,COCO_val2014_000000236268.jpg,Is there a song about a bicycle built for someone with a name like this flower?,yes,Yes,6,1.0,9.152
+389419008,COCO_val2014_000000389419.jpg,Is someone holding a glass?,no,No,10,1.0,9.003
+567494004,COCO_val2014_000000567494.jpg,Has the ball reached the batter yet?,yes,No,0,0.0,9.364
+345618002,COCO_val2014_000000345618.jpg,Are the vegetables chopped?,no,No,8,1.0,8.51
+514525002,COCO_val2014_000000514525.jpg,Are the orange stars a fruit or vegetable?,fruit,Vegetable,3,1.0,9.156
+335800002,COCO_val2014_000000335800.jpg,What street was this photo taken on?,robson,Robson,7,1.0,8.742
+154520068,COCO_val2014_000000154520.jpg,Who do you think will win this match?,man,Unanswerable,0,0.0,9.139
+468997010,COCO_val2014_000000468997.jpg,Which hand is the pitcher throwing with?,right,Right,9,1.0,9.149
+22747003,COCO_val2014_000000022747.jpg,What is in the package?,toothbrushes,Toothbrushes,7,1.0,9.357
+146813016,COCO_val2014_000000146813.jpg,Are there sheets on the bed?,yes,Yes,10,1.0,9.443
+136170006,COCO_val2014_000000136170.jpg,Can a zebra jump over this fence?,no,No,9,1.0,8.87
+129903001,COCO_val2014_000000129903.jpg,What are the street names?,manuel hidalgo,"Manuel Dorrego, Dalgo",0,0.0,9.339
+44352000,COCO_val2014_000000044352.jpg,What color is the clock?,green,Green,8,1.0,9.281
+326820003,COCO_val2014_000000326820.jpg,What color flower is in the back?,yellow,Yellow,9,1.0,9.249
+302077002,COCO_val2014_000000302077.jpg,What  is the table made of?,marble,Metal,2,0.667,8.772
+176993001,COCO_val2014_000000176993.jpg,Is the sky cloudy or clear?,clear,clear,8,1.0,9.588
+472732010,COCO_val2014_000000472732.jpg,Is it cold?,no,No,6,1.0,9.39
+485709005,COCO_val2014_000000485709.jpg,What is the name on the player's jersey?,red sox,Red Sox,8,1.0,8.302
+335532000,COCO_val2014_000000335532.jpg,What color are the girls earrings?,white,White,9,1.0,9.526
+96402016,COCO_val2014_000000096402.jpg,Is there a cat in the picture?,no,No,10,1.0,9.526
+106096003,COCO_val2014_000000106096.jpg,Is the man holding a bag?,no,no,10,1.0,8.448
+73326001,COCO_val2014_000000073326.jpg,Do you see a crock pot?,yes,Yes,10,1.0,8.1
+292482001,COCO_val2014_000000292482.jpg,What is the child sitting on?,chair,chair,6,1.0,7.58
+381430009,COCO_val2014_000000381430.jpg,What position is the man in yellow playing?,defense,defender,2,0.667,8.728
+407017003,COCO_val2014_000000407017.jpg,Do you think they serve nachos?,no,No,7,1.0,8.44
+532085000,COCO_val2014_000000532085.jpg,Do you pay for parking?,yes,Yes,9,1.0,8.885
+271560003,COCO_val2014_000000271560.jpg,Is this pic in color?,no,No,10,1.0,9.673
+225786011,COCO_val2014_000000225786.jpg,Is there debris washed up?,no,No,8,1.0,9.478
+51250003,COCO_val2014_000000051250.jpg,What time of the year is it?,spring,summer,3,1.0,9.13
+489850002,COCO_val2014_000000489850.jpg,Is it winter?,yes,Yes,10,1.0,9.586
+509786001,COCO_val2014_000000509786.jpg,Can the player hit the ball?,yes,Yes,8,1.0,9.275
+481582012,COCO_val2014_000000481582.jpg,What animal can be seen?,horse,Horse,10,1.0,9.577
+147866002,COCO_val2014_000000147866.jpg,What color is the vehicle?,black,Black,10,1.0,8.559
+127997001,COCO_val2014_000000127997.jpg,Is the woman the driver?,yes,No,4,1.0,7.618
+478621010,COCO_val2014_000000478621.jpg,Would an unskilled person have a high risk for injury doing this?,no,Yes,1,0.333,8.251
+54683002,COCO_val2014_000000054683.jpg,What room is this?,kitchen,Kitchen,10,1.0,8.627
+120767001,COCO_val2014_000000120767.jpg,Is that a real animal?,no,No,10,1.0,8.899
+87354000,COCO_val2014_000000087354.jpg,What street is listed on the sign?,34th,34th Street,3,1.0,9.344
+430160001,COCO_val2014_000000430160.jpg,What kind of food is this?,peanut butter and banana sandwich,PB&J,0,0.0,9.876
+423395013,COCO_val2014_000000423395.jpg,What is the woman drinking?,wine,wine,8,1.0,9.759
+125318004,COCO_val2014_000000125318.jpg,Is this in a factory?,yes,Yes,9,1.0,9.286
+62491015,COCO_val2014_000000062491.jpg,What kind of wood are the cabinets made from?,oak,MDF,0,0.0,8.94
+128748005,COCO_val2014_000000128748.jpg,What is the last name of the person in the foreground?,navarro,Navarro,8,1.0,9.601
+550980005,COCO_val2014_000000550980.jpg,Are the men young?,no,No,9,1.0,9.945
+483374001,COCO_val2014_000000483374.jpg,Is the wall stone?,no,no,10,1.0,9.361
+492609004,COCO_val2014_000000492609.jpg,What is on the pizza?,asparagus,Asparagus,7,1.0,8.702
+509826060,COCO_val2014_000000509826.jpg,Is the ground cold?,no,No,9,1.0,10.123
+554357001,COCO_val2014_000000554357.jpg,Why is his hat on backwards?,see better,Fashion,1,0.333,9.535
+366295017,COCO_val2014_000000366295.jpg,Is this in the wild or in a zoo?,wild,Wild,9,1.0,10.122
+303321003,COCO_val2014_000000303321.jpg,Is the man riding the bike?,no,No,10,1.0,9.479
+552377002,COCO_val2014_000000552377.jpg,What type of fruit is on the side of some of the glasses?,lemon,Lemon,8,1.0,9.816
+554767002,COCO_val2014_000000554767.jpg,What color is the side of the train?,white,White,4,1.0,9.281
+5503003,COCO_val2014_000000005503.jpg,Does the toilet look clean?,yes,No,1,0.333,8.451
+568290000,COCO_val2014_000000568290.jpg,What color is the bus?,red,Red,8,1.0,8.396
+296056002,COCO_val2014_000000296056.jpg,"Is there something about this shot reminiscent of the old ""his master's voice"" ads?",yes,Yes,4,1.0,9.239
+171310002,COCO_val2014_000000171310.jpg,Were different colored glazes used on the ceramic?,yes,Yes,8,1.0,8.65
+491835001,COCO_val2014_000000491835.jpg,Is the weather cold?,no,Yes,2,0.667,9.094
+143908003,COCO_val2014_000000143908.jpg,Where is the smoke coming from?,motorcycle,tire,1,0.333,9.728
+105975001,COCO_val2014_000000105975.jpg,How many elephants are there?,1,1,10,1.0,10.398
+416105001,COCO_val2014_000000416105.jpg,What brand is the racket?,wilson,Wilson,7,1.0,8.537
+218119007,COCO_val2014_000000218119.jpg,Is the beach very sandy?,yes,Yes,10,1.0,9.532
+464831008,COCO_val2014_000000464831.jpg,What does the graph depict?,nothing,meeting,1,0.333,10.099
+581702001,COCO_val2014_000000581702.jpg,What color feathers does this bird have?,black,"Red, white, black",0,0.0,9.633
+145665002,COCO_val2014_000000145665.jpg,How is the man seated?,on his back,not seated,0,0.0,9.954
+170365001,COCO_val2014_000000170365.jpg,Is there anyone occupying the bathroom in this photo?,no,No,10,1.0,10.112
+44934002,COCO_val2014_000000044934.jpg,What is the white stuff?,cheese,cheese,8,1.0,9.393
+372717000,COCO_val2014_000000372717.jpg,What is device is in the picture?,camera,Camera,7,1.0,9.794
+52591001,COCO_val2014_000000052591.jpg,Are those trees real?,no,No,8,1.0,9.847
+105812048,COCO_val2014_000000105812.jpg,What color is the plate in the background?,white,white,10,1.0,9.834
+39811000,COCO_val2014_000000039811.jpg,What is the primary color of the bus?,white,White,8,1.0,8.904
+562370000,COCO_val2014_000000562370.jpg,How many dogs are there?,2,2,10,1.0,9.207
+39814002,COCO_val2014_000000039814.jpg,What kind of bear is in the photo?,polar,Polar bear,4,1.0,9.312
+201148000,COCO_val2014_000000201148.jpg,Is this an urban setting?,no,No,9,1.0,9.352
+342614001,COCO_val2014_000000342614.jpg,How many letters?,12,10,0,0.0,9.782
+301971005,COCO_val2014_000000301971.jpg,Where are two men beside the scale?,behind fruit stand,Market,0,0.0,9.161
+318571001,COCO_val2014_000000318571.jpg,Is the cat a solid color?,yes,Yes,10,1.0,9.649
+89781020,COCO_val2014_000000089781.jpg,Would you eat this?,yes,Yes,8,1.0,9.418
+390350000,COCO_val2014_000000390350.jpg,What is the child holding?,phone,phone,6,1.0,9.939
+317656000,COCO_val2014_000000317656.jpg,Would this pizza fill a person up?,no,Yes,0,0.0,9.714
+581482001,COCO_val2014_000000581482.jpg,What time will it be in about two minutes?,11:30,6:30,1,0.333,10.257
+459258001,COCO_val2014_000000459258.jpg,What is the girl playing with?,frisbee,Frisbee,10,1.0,9.639
+440475010,COCO_val2014_000000440475.jpg,Do all of the vases have water in them?,no,No,6,1.0,10.069
+285968004,COCO_val2014_000000285968.jpg,How many dogs?,0,0,10,1.0,9.894
+171494003,COCO_val2014_000000171494.jpg,How many logs are in the photo?,1,1,6,1.0,9.508
+470779011,COCO_val2014_000000470779.jpg,Does the skier in the middle of this photo look like a real human to you?,yes,Yes,9,1.0,8.786
+477805053,COCO_val2014_000000477805.jpg,Is it midday?,no,No,10,1.0,9.221
+415196020,COCO_val2014_000000415196.jpg,Does the television have a flat screen?,no,No,9,1.0,9.161
+536720000,COCO_val2014_000000536720.jpg,What color is the gate?,black,Black,5,1.0,9.26
+484080002,COCO_val2014_000000484080.jpg,Are plant roots visible?,no,No,9,1.0,9.029
+31050000,COCO_val2014_000000031050.jpg,Is this vase for sale?,yes,No,5,1.0,8.838
+19042001,COCO_val2014_000000019042.jpg,Is there a bird in the picture?,yes,Yes,10,1.0,9.871
+568270001,COCO_val2014_000000568270.jpg,What animals can be seen here?,horses,Horses,7,1.0,9.285
+195862002,COCO_val2014_000000195862.jpg,Is the horse moving?,no,No,9,1.0,8.953
+56430000,COCO_val2014_000000056430.jpg,Is the knife going to stop everyone?,no,No,9,1.0,9.496
+443139001,COCO_val2014_000000443139.jpg,Is there dust on the dashboard?,yes,No,0,0.0,9.423
+437651001,COCO_val2014_000000437651.jpg,How many girls are wearing gloves?,1,1,10,1.0,8.86
+273556000,COCO_val2014_000000273556.jpg,How many people are in this room?,1,1,10,1.0,9.052
+368836010,COCO_val2014_000000368836.jpg,What letter is on the tennis racket?,w,W,2,0.667,8.912
+534178001,COCO_val2014_000000534178.jpg,How many photos are there?,2,2,10,1.0,9.83
+172877002,COCO_val2014_000000172877.jpg,Is the man floating?,no,No,10,1.0,9.206
+245971000,COCO_val2014_000000245971.jpg,Does the large keyboard have a number pad?,no,No,8,1.0,8.785
+251019001,COCO_val2014_000000251019.jpg,Does his shoes have stripes or polka dots?,stripes,stripes,7,1.0,9.413
+443499001,COCO_val2014_000000443499.jpg,What is the cat thinking?,nothing,Hungry.,0,0.0,9.745
+382041013,COCO_val2014_000000382041.jpg,Does the man skateboarding have tattoos?,no,No,10,1.0,9.143
+127153016,COCO_val2014_000000127153.jpg,What is she standing upon?,ground,crosswalk,2,0.667,10.011
+414578016,COCO_val2014_000000414578.jpg,How many benches are in the background?,1,1,8,1.0,8.718
+261346004,COCO_val2014_000000261346.jpg,What was the score of the first set?,0,0-0,2,0.667,10.113
+438253001,COCO_val2014_000000438253.jpg,What kind of animal is under the bed?,dog,Dog,10,1.0,9.534
+70921002,COCO_val2014_000000070921.jpg,How many people are wearing flip-flops?,1,1,9,1.0,9.223
+490022052,COCO_val2014_000000490022.jpg,Are they having lunch?,no,No,10,1.0,9.398
+341921002,COCO_val2014_000000341921.jpg,Where is the boy's backpack?,on ground,On ground,4,1.0,9.001
+327565001,COCO_val2014_000000327565.jpg,Is this a bicycle or a motorcycle?,motorcycle,Motorcycle,10,1.0,9.687
+581022003,COCO_val2014_000000581022.jpg,These three men are happy?,yes,Yes,10,1.0,9.612
+47718001,COCO_val2014_000000047718.jpg,Is the train in a tunnel?,yes,Yes,10,1.0,8.958
+156236012,COCO_val2014_000000156236.jpg,How many people are in the picture?,1,1,10,1.0,8.971
+126833002,COCO_val2014_000000126833.jpg,Are the guy and gal acknowledging one another?,no,No,7,1.0,7.908
+462807000,COCO_val2014_000000462807.jpg,What type of spice is on top of the pizza?,pepper,Pepperoni,0,0.0,7.91
+388531005,COCO_val2014_000000388531.jpg,What color is the jacket?,black,Black,10,1.0,7.541
+13465002,COCO_val2014_000000013465.jpg,What is the girl doing?,skateboarding,skateboarding,5,1.0,8.022
+190776006,COCO_val2014_000000190776.jpg,Is there a road behind this animal?,no,No,9,1.0,7.747
+37725000,COCO_val2014_000000037725.jpg,Is the cake sliced?,no,No,10,1.0,9.031
+486536004,COCO_val2014_000000486536.jpg,How many cats?,2,2,10,1.0,8.436
+450357010,COCO_val2014_000000450357.jpg,What brand does it say on his shirt?,none,Nike,1,0.333,9.102
+408696001,COCO_val2014_000000408696.jpg,What is the appliance with the greenback?,vacuum,vacuum,6,1.0,8.133
+273118000,COCO_val2014_000000273118.jpg,Is the elephant holding something?,yes,Yes,10,1.0,7.873
+165638000,COCO_val2014_000000165638.jpg,Is the man watching scary?,no,No,7,1.0,9.38
+549384007,COCO_val2014_000000549384.jpg,Are the lower cabinet knobs horizontal or vertical?,vertical,Vertical,7,1.0,9.523
+347953000,COCO_val2014_000000347953.jpg,Is the sun shining?,no,No,10,1.0,9.797
+550055005,COCO_val2014_000000550055.jpg,Can you see both wings on this plane?,yes,No,1,0.333,8.555
+232453004,COCO_val2014_000000232453.jpg,How many wheels are on the right side of the main truck?,11,5,0,0.0,9.117
+381032000,COCO_val2014_000000381032.jpg,What color coat is the guy wearing in the back?,blue,blue,6,1.0,9.351
+358707011,COCO_val2014_000000358707.jpg,What group of people might be living in this neighborhood?,senior citizens,Seniors,3,1.0,8.733
+40016003,COCO_val2014_000000040016.jpg,What color is the outfit?,red,red,8,1.0,8.305
+357758014,COCO_val2014_000000357758.jpg,Is the man wearing a helmet?,yes,Yes,9,1.0,8.722
+114184004,COCO_val2014_000000114184.jpg,Were the pastries bought at Starbucks?,no,No,10,1.0,8.517
+434576007,COCO_val2014_000000434576.jpg,What is the animal on top of?,shoes,shoes,9,1.0,8.394
+441511033,COCO_val2014_000000441511.jpg,Is everyone wearing a hat?,yes,No,1,0.333,8.741
+250564007,COCO_val2014_000000250564.jpg,Is this elephant alone?,no,No,10,1.0,8.729
+414397000,COCO_val2014_000000414397.jpg,What are the cows laying in?,hay,hay,9,1.0,8.623
+314986000,COCO_val2014_000000314986.jpg,Would you be able to drive fast easily on this road?,yes,No,3,1.0,9.315
+440475007,COCO_val2014_000000440475.jpg,Is this scene in a restaurant?,no,No,9,1.0,9.416
+29019001,COCO_val2014_000000029019.jpg,Which famous landmark is shown?,big ben,Big Ben,6,1.0,9.64
+98392002,COCO_val2014_000000098392.jpg,Is the driver of the blue car looking for a parking spot?,no,No,9,1.0,9.257
+361106002,COCO_val2014_000000361106.jpg,Are these people happy?,yes,Yes,10,1.0,9.467
+329088002,COCO_val2014_000000329088.jpg,How steep is the hill?,very,Moderately,1,0.333,9.988
+31667000,COCO_val2014_000000031667.jpg,What season is this?,fall,Winter,1,0.333,9.096
+498804000,COCO_val2014_000000498804.jpg,Is there a weathervane on top?,yes,Yes,10,1.0,9.713
+153709001,COCO_val2014_000000153709.jpg,What style of photography is shown?,action,Vintage,0,0.0,8.265
+154520022,COCO_val2014_000000154520.jpg,How many people are in this picture?,2,2,10,1.0,10.172
+248112021,COCO_val2014_000000248112.jpg,Daytime or nighttime game?,daytime,Daytime,6,1.0,7.933
+329576003,COCO_val2014_000000329576.jpg,What animals are these?,horses,Horses,9,1.0,8.573
+192192002,COCO_val2014_000000192192.jpg,Is one of the benches broken?,no,No,7,1.0,9.133
+212403012,COCO_val2014_000000212403.jpg,Is a boy or girl riding the horse?,girl,Girl,9,1.0,8.053
+82933003,COCO_val2014_000000082933.jpg,Is the cow having a bell?,yes,Yes,10,1.0,9.007
+224020000,COCO_val2014_000000224020.jpg,What flavor are the red sprinkles?,cherry,strawberry,3,1.0,9.491
+78056000,COCO_val2014_000000078056.jpg,How many round balls do you see?,2,2,7,1.0,10.216
+260094000,COCO_val2014_000000260094.jpg,What interstate number is on the sign?,294,294,10,1.0,9.165
+444304002,COCO_val2014_000000444304.jpg,What is on the screen?,movie,Game,0,0.0,7.999
+495064000,COCO_val2014_000000495064.jpg,What is the large orange vehicle?,bus,Bus,9,1.0,7.873
+166979004,COCO_val2014_000000166979.jpg,How many people are on this boat?,1,1,8,1.0,9.499
+59815005,COCO_val2014_000000059815.jpg,How many people are on the elephant?,0,0,10,1.0,8.836
+32001014,COCO_val2014_000000032001.jpg,What room is she in?,living room,Living room,7,1.0,8.936
+51079004,COCO_val2014_000000051079.jpg,Does this sandwich contain any vegetables?,no,No,10,1.0,9.604
+531875002,COCO_val2014_000000531875.jpg,What color is the spoon?,yellow,Yellow,10,1.0,8.944
+249969004,COCO_val2014_000000249969.jpg,Is this a pizza?,no,No,10,1.0,9.497
+237558002,COCO_val2014_000000237558.jpg,How does the person know it is safe to cross in this specific area?,crosswalk,Crosswalk,3,1.0,9.548
+395745003,COCO_val2014_000000395745.jpg,Is there chips with the sandwich?,yes,Yes,7,1.0,9.365
+281688001,COCO_val2014_000000281688.jpg,Is the empire on his knees?,no,No,8,1.0,9.74
+90373009,COCO_val2014_000000090373.jpg,How many stop signs are there?,0,0,8,1.0,10.175
+435576002,COCO_val2014_000000435576.jpg,Is this an outdoor market?,yes,Yes,10,1.0,9.937
+374083006,COCO_val2014_000000374083.jpg,Is the cake whole?,no,No,10,1.0,9.558
+322261023,COCO_val2014_000000322261.jpg,What color are the pillows on the couch?,gray,white,2,0.667,9.447
+168353001,COCO_val2014_000000168353.jpg,Is this a beautiful wedding cake?,yes,Yes,9,1.0,9.145
+12943002,COCO_val2014_000000012943.jpg,What is on the right side of the desk?,refrigerator,Chair,0,0.0,9.719

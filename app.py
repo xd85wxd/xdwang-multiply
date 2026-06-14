@@ -19,7 +19,6 @@ os.makedirs(
     exist_ok=True
 )
 
-# 当前图片缓存
 current_image_name = None
 
 
@@ -68,21 +67,14 @@ def ask():
 
     print("=" * 60)
 
-    # ==================================
-    # 新图片
-    # ==================================
     if image.filename != current_image_name:
 
         print("New Image Detected")
 
         current_image_name = image.filename
 
-        # 换图后清空历史
         chat_history = []
 
-    # ==================================
-    # 记录用户问题
-    # ==================================
     chat_history.append(
         {
             "role": "user",
@@ -90,9 +82,7 @@ def ask():
         }
     )
 
-    # ==================================
-    # Qwen2.5-VL问答
-    # ==================================
+
     answer = ask_image(
         image_path,
         chat_history
@@ -109,19 +99,6 @@ def ask():
         "answer": answer
     }
 
-
-@app.route("/new_chat", methods=["POST"])
-def new_chat():
-
-    global chat_history
-    global current_image_name
-
-    chat_history = []
-    current_image_name = None
-
-    return {
-        "status": "ok"
-    }
 
 
 if __name__ == "__main__":
